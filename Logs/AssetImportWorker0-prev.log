@@ -1,0 +1,133 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 7979 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/aditya/OneDrive/Desktop/fire-ballista-master/Fire Ballista
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64735
+Successfully changed project path to: C:/Users/aditya/OneDrive/Desktop/fire-ballista-master/Fire Ballista
+C:/Users/aditya/OneDrive/Desktop/fire-ballista-master/Fire Ballista
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 83.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aditya/OneDrive/Desktop/fire-ballista-master/Fire Ballista/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5763
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56736
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005237 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.229 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.513 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1643 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2064.
+Total: 5.382800 ms (FindLiveObjects: 0.245100 ms CreateObjectMapping: 0.068800 ms MarkObjects: 4.996800 ms  DeleteObjects: 0.070000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Arrow.cs
+  artifactKey: Guid(11d11a76346ce7842b0717168569eff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Arrow.cs using Guid(11d11a76346ce7842b0717168569eff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a958c11c3c4d83f6b884712bafb724') in 0.032183 seconds
+  Import took 0.035257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.467190 seconds.
+  path: Assets/Scripts/CameraFollow.cs
+  artifactKey: Guid(6730a17e0967ef645887fc93520ac2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraFollow.cs using Guid(6730a17e0967ef645887fc93520ac2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a400e5abf5ad720c2550a42d3b83ee78') in 0.003312 seconds
+  Import took 0.006217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.700912 seconds.
+  path: Assets/Scripts/MainCameraZoom.cs
+  artifactKey: Guid(ff8e6d3e4fb8f804faf5405cf01ae2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainCameraZoom.cs using Guid(ff8e6d3e4fb8f804faf5405cf01ae2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0783771d3ae924fd7e50f3cb923ecb35') in 0.002750 seconds
+  Import took 0.020161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000929 seconds.
+  path: Assets/Scripts/MainCameraZoom.cs
+  artifactKey: Guid(ff8e6d3e4fb8f804faf5405cf01ae2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainCameraZoom.cs using Guid(ff8e6d3e4fb8f804faf5405cf01ae2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0783771d3ae924fd7e50f3cb923ecb35') in 0.015529 seconds
+  Import took 0.029671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.764646 seconds.
+  path: Assets/Prefabs/Arrow.prefab
+  artifactKey: Guid(4026cd1ecb67f0548a4d20e39250126e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Arrow.prefab using Guid(4026cd1ecb67f0548a4d20e39250126e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec92138089c69c223ff0cb072f0c33aa') in 0.118473 seconds
+  Import took 0.121887 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008660 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1636 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.7 MB.
+System memory in use after: 73.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2075.
+Total: 6.424100 ms (FindLiveObjects: 0.618600 ms CreateObjectMapping: 0.264700 ms MarkObjects: 5.511800 ms  DeleteObjects: 0.025600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
